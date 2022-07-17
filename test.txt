@@ -1,5 +1,4 @@
 It's a test!
 This line was added with 2nd commit
 added 3rd line from local repo
-sfsdfdsfsdhfwhfweuifuhvw
-svfvsdgdfgdgvdgv
+added 4rd line from remote repo
